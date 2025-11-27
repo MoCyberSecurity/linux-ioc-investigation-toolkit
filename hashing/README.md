@@ -9,9 +9,6 @@ This folder provides a practical command-line reference for **file hashing** on 
 ```bash
 sha256sum <file>   # Generate SHA256 hash
 
-## File Integrity & Hash Verification
----
-
 ### 1. Verify File Integrity
 
 Compare the hash of a downloaded file with the official published hash:
